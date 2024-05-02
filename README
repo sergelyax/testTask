@@ -1,0 +1,19 @@
+# ALT Linux Package Comparator
+
+This utility is designed to compare binary packages between two branches of the ALT Linux repositories, such as sisyphus and p10. It identifies differences in package versions between these branches and provides a detailed comparison.
+
+## Prerequisites
+
+- Linux OS, specifically tested on ALT Workstation K 10.1.
+- Java and Maven installed on your system.
+
+## Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/sergelyax/testTask.git
+cd testTask
+
+
+
